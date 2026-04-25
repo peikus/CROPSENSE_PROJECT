@@ -292,6 +292,7 @@ if (isset($_GET['delete'])) {
                             <ul class="nxl-submenu">
                                 <li class="nxl-item"><a class="nxl-link" href="admin_farmerlog.php">Farmers</a></li>
                                 <li class="nxl-item"><a class="nxl-link" href="admin_technicianlog.php">Technicians</a></li>
+                                <li class="nxl-item"><a class="nxl-link" href="create_technician.php">Create Technicians</a></li>
                             </ul>
                         </li>
 
