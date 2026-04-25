@@ -1,0 +1,44 @@
+{
+  "healthy_rice_plant": {
+    "treatments": "No special treatment needed.",
+    "causes": "Naturally healthy plant.",
+    "nutrient_deficiency": "None",
+    "grain_damage": "None",
+    "prevention": "Regular monitoring."
+  },
+  "bacterial_leaf_blight": {
+    "treatments": "Use resistant varieties and copper-based bactericides.",
+    "causes": "Bacteria Xanthomonas oryzae pv. oryzae.",
+    "nutrient_deficiency": "Excess nitrogen fertilizer.",
+    "grain_damage": "Reduced grain filling and quality.",
+    "prevention": "Avoid water stagnation and excessive nitrogen."
+  },
+  "leaf_blast": {
+    "treatments": "Apply fungicides like tricyclazole.",
+    "causes": "Fungus Magnaporthe oryzae.",
+    "nutrient_deficiency": "Silicon deficiency.",
+    "grain_damage": "Poor grain quality and yield loss.",
+    "prevention": "Use resistant varieties and balanced fertilization."
+  },
+  "rice_false_smut": {
+    "treatments": "Fungicide application at booting stage.",
+    "causes": "Fungus Ustilaginoidea virens.",
+    "nutrient_deficiency": "Excess nitrogen.",
+    "grain_damage": "Grains turn into green smut balls.",
+    "prevention": "Avoid excessive nitrogen and use clean seeds."
+  },
+  "sheath_blight": {
+    "treatments": "Apply validamycin or other sheath blight fungicides.",
+    "causes": "Fungus Rhizoctonia solani.",
+    "nutrient_deficiency": "Excess nitrogen.",
+    "grain_damage": "Reduced photosynthesis and yield.",
+    "prevention": "Proper plant spacing and avoid excessive nitrogen."
+  },
+  "tungro_virus": {
+    "treatments": "No chemical cure. Rogue infected plants.",
+    "causes": "Virus transmitted by green leafhopper.",
+    "nutrient_deficiency": "None specific.",
+    "grain_damage": "Stunted growth and reduced yield.",
+    "prevention": "Control leafhoppers and use resistant varieties."
+  }
+}
